@@ -1,7 +1,7 @@
 //  import fit.Fixture;
-import fit.Fixture;
+import fit.ColumnFixture;
 
-public class DeliveryFixture extends Fixture{
+public class DeliveryFixture extends ColumnFixture{
     private String itm;
     private int qty;
     private int dis;
