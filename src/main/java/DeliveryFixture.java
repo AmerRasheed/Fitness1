@@ -1,4 +1,3 @@
-//  import fit.Fixture;
 import fit.ColumnFixture;
 
 public class DeliveryFixture extends ColumnFixture{
