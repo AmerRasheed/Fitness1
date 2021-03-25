@@ -1,7 +1,7 @@
 public class OnlineElectronicShop {
     private int amount;
     private String item;
-    private int quantity;
+     private int quantity;
     private int distance;
 
     public OnlineElectronicShop (String orderItem, int orderQuantity, int orderDistance){
