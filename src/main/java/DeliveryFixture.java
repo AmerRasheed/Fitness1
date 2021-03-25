@@ -1,4 +1,6 @@
-public class DeliveryFixture {
+import fit.Fixture;
+
+public class DeliveryFixture extends Fixture{
     private String itm;
     private int qty;
     private int dis;
